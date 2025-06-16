@@ -1,27 +1,39 @@
 ---
-title: Exercise Instructions
+title: Online Hosted Instructions
 permalink: index.html
 layout: home
 ---
 
-<!--
-Change the title above AND IN THE _config.yml FILE (so that the page header in the GitHub Pages site automatically shows the site name).
+Hyperlinks to each of the demos are listed below.
 
-When you're ready for the labs to be live - make the repo public and enable GitHub Pages publishing from the main branch (in the repo Settings | Pages).
--->
+## Demos
 
-This page lists exercises associated with Microsoft skilling content on [Microsoft Learn](https://learn.microsoft.com)
-
-<!-- You can edit the paragraph above to provide a more specific description and links to content on Learn.
-
-Include the following note if an Azure subscription is required (or add something similar for any other requirements, such as a Microsoft 365 account).
-
-> **Note**: To complete these exercises, you will need a [Microsoft Azure subscription](https://azure.microsoft.com/free) in which you have sufficient permissions to create and configure the required resources.
-
-If a more complex setup is required, create a separate markdown file with setup instructions at \Instructions\Labs\00-setup.md - being sure to include "lab.title"" metadata at the top so it shows up the list below
--->
-
-{% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
-{% for activity in labs  %}
-- [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }})
+{% assign demos = site.pages | where_exp:"page", "page.url contains '/Instructions/Demos'" %}
+| Demo |
+| --- |
+{% for activity in demos  %}| [{{ activity.demo.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
+
+## Sample Prompts for immersion experience
+
+#### [Executives](https://learn.microsoft.com/en-us/training/modules/envision-new-ideas-with-microsoft-365-copilot/) (Redirects to Microsoft Learn)
+
+#### [Communications](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/Communications-Prompts.html)
+
+#### [HR](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/HR-Prompts.html)
+
+#### [Sales](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/Sales-Prompts.html)
+
+#### [IT](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/IT-Prompts.html)
+
+#### [Executive Assistant](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/EA-Prompts.html)
+
+#### [Business Manager](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/Business-Manager-Prompts.html)
+
+#### [Marketing](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/Marketing-Prompts.html)
+
+#### [Operations](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/Operations-Prompts.html)
+
+#### [Legal](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/Legal-Prompts.html)
+
+#### [Finance](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/Finance-Prompts.html)
