@@ -3,78 +3,101 @@ task:
     title: 'Immersion Experience - Operations'
 ---
 
-## Immersion Experience - Operations
+# Immersion Experience – Procurement
 
-Draft a supplier transition plan by assessing potential vendors and outlining the transition process.
+Create a Request for Proposal (RFP) to solicit vendor bids for a new initiative. You’ll use Microsoft 365 Copilot to define project needs, draft the RFP, and communicate the plan to internal stakeholders.
 
-You'll perform three tasks:  
+You’ll choose your own project type—for example, upgrading IT infrastructure, launching a digital services platform, implementing a sustainability initiative, or any public sector effort that requires external vendor support.
 
-- Research supplier options using **Microsoft 365 Copilot Chat**.  
-- Develop a supplier transition plan using **Copilot in Word**.  
-- Communicate the supplier change using **Copilot in Outlook**.  
+## Tasks Overview
+
+You will perform three tasks:
+
+- Define project scope and procurement needs using **Microsoft 365 Copilot Chat**
+- Draft a formal RFP using **Copilot in Word**
+- Create an internal summary email using **Copilot in Outlook**
 
 > **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!  
 
-### Task 1: Research supplier options  
+### Task 1: Define the project scope and procurement needs
 
-Using **Microsoft 365 Copilot Chat**, research and compare potential suppliers for a specific product or service. Identify key decision factors such as cost, reliability, service level agreements (SLAs), and scalability.  
+Use **Microsoft 365 Copilot Chat (Work mode)** to define the goals, scope, and procurement requirements for your selected project. This summary will serve as the foundation for your RFP.
 
 **Steps**:
 
-- Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/).
-- Ensure the "web mode" tab is selected in Copilot Chat:
+1. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/).
+1. Ensure the "Work mode" tab is selected in Copilot Chat:
 
-    ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
+    ![screenshot showing Work mode tab.](../Prompts/Media/work-mode.png)
 
-**Sample Prompt**:
+    > **Note:** Depending on your organization's tenant configuration, you may not see the option to switch between **Work** and **Web** modes. If the slider is not visible, you're already in **Work mode** by default.
+1. Enter your prompt in the chat window.
 
-```text
-Compare three leading suppliers for [product/service] in [select your industry]. Provide a summary of pricing, contract flexibility, service reliability, and customer support quality.
-```
+    **Sample Prompt**:
 
-> **NOTE:** Replace [product/service] with the item or service you are evaluating for your supplier transition. Replace [select your industry] with the relevant industry, such as healthcare, manufacturing, or retail.  
+    ```text
+    Help me define the scope and procurement needs for a new government project. The goal is to [Project Goal]. Include objectives, key deliverables, vendor qualifications, and timeline expectations.
+    ```
 
-> **TIP**  
->
-> - Ask Copilot to export the response to a Word document to save for the next task. Save the document to your OneDrive and copy the shared URL.
-> - To copy the link, open the saved Word document and select **Share** > **Copy Link**, as shown below:  
-> ![Share link.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
+    > **NOTE:** Replace [Project Goal] with a project of your choice—such as upgrading transportation systems, deploying mobile health services, or implementing a digital permit portal.
 
-### Task 2: Develop a supplier transition plan  
+    > **TIP**  
+    >
+    > - Ask Copilot to export the response to a Word document to save for the next task. Save the document to your OneDrive and copy the shared URL.
+    > - To copy the link, open the saved Word document and select **Share** > **Copy Link**, as shown below:  
+    > ![Share link.](../Prompts/Media/share-menu-with-copy-link.png)
 
-Using **Copilot in Word**, draft a structured plan outlining the supplier transition process, expected benefits, and key risks. Ensure the plan includes justifications for the switch, a transition timeline, and stakeholder considerations.  
+### Task 2: Draft the RFP document
 
-- Launch Microsoft Word from your browser ([word.new](https://word.new)) or use the desktop application.
-- Enter your prompt where it says **"Describe what you'd like to write"**.
+Use **Copilot in Word** to generate a formal Request for Proposal. You can reference a prior RFP if you have one, or let Copilot generate the structure from your project summary.
+
+**Steps**:
+
+1. Launch Microsoft Word from your browser ([word.new](https://word.new)) or use the desktop application.  
+2. Enter your prompt where it says **"Describe what you'd like to write"**.
 
     ![screenshot showing Copilot in Word.](../Prompts/Media/draft-with-copilot.png)
 
-**Sample Prompt**:
+    **Sample Prompt – Without a reference**:
 
-```text
-Based on the supplier research from [Paste in shared Word document link from Task 1], draft a Supplier Transition Plan outlining why [Company] is switching to [Supplier X]. Include key benefits, a transition timeline, and potential risks.
-```
+    ```text
+    Using the summary below, draft a formal RFP seeking vendors to [Project Goal]. Include sections for: background, scope of work, proposal submission requirements, evaluation criteria, timelines, and contact details.
+    
+    Summary:  
+    [Paste summary from Task 1 or the shared link to the Word document you created in Task 1]
+    ```
 
-> **NOTE:** Replace [Company] with your organization and [Supplier X] with the selected supplier. Adjust the details to fit the business need.
+    **Sample Prompt - With a reference (optional)**:
 
-> **TIP** Ask Copilot in Word to summarize the transition plan into 3-4 key points for use in an email update.
+    ```text
+    Using the summary below and based on the format used in [reference prior RFP using slash "/"], draft a new RFP to [Project Goal].
+    
+    Summary:  
+    [Paste summary from Task 1 or the shared link to the Word document you created in Task 1]
+    ```
 
-### Task 3: Communicate the supplier change  
+    > **NOTE:**
+    >
+    > - Replace [Project Goal] with the project you selected in Task 1—for example, upgrading transportation systems or deploying mobile health services.
+    > - To reference a document, type **"/"** and the file name to insert a recent document, or paste a shareable link to a prior RFP directly into your prompt.
 
-Using **Copilot in Outlook**, draft an email announcing the proposed supplier transition to your team. Clearly explain the reasoning, expected benefits, and any action steps needed for a smooth transition.  
+### Task 3: Draft an internal summary email
+
+Use **Copilot in Outlook** to draft a professional message announcing the RFP to your leadership or team. Your email should briefly summarize the RFP project, outline the timeline for vendor responses, and include any relevant next steps for your team.
 
 **Steps**:
 
-- In **Outlook**, select **New Email** and then  from the ribbon select **Copilot** > **Draft with Copilot**
+1. In **Outlook**, select **New Email** and then  from the ribbon select **Copilot** > **Draft with Copilot**
 
     ![screenshot showing Copilot in Outlook.](../Prompts/Media/copilot-outlook-desktop.png)
+1. In the prompt window, enter:
 
-**Sample Prompt**:
+    **Sample Prompt**:
 
-```text
-Write an internal email to my team announcing a potential supplier transition to [Supplier X] using the key points below:
+    ```text
+    Write an internal email announcing that we are releasing an RFP for a public sector project to [insert project goal]. Summarize the purpose of the RFP, the expected vendor timeline, and any next steps for our internal team. Use the key points below as reference:
+    
+    - [Insert 2–4 key points from your RFP or project summary]
+    ```
 
-[Summarized key points from the Supplier Transition Plan]
-```
-
-> **NOTE:** Replace [Supplier X] with the chosen supplier and tailor the message for your internal audience.
+    > **TIP:** If you used Copilot in Word to generate the RFP, copy 2–4 key bullet points (such as project scope, submission deadline, evaluation process) to help Copilot craft the email.

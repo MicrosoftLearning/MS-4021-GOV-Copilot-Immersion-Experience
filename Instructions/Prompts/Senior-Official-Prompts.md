@@ -61,6 +61,7 @@ If you don’t have specific content prepared, you can simulate or explore possi
     ![screenshot showing Work mode tab.](../Prompts/Media/work-mode.png)
 
     > **Note:** Depending on your organization's tenant configuration, you may not see the option to switch between **Work** and **Web** modes. If the slider is not visible, you're already in **Work mode** by default.
+1. Enter your prompt in the chat window.
 
     **Sample Prompt**:
 
@@ -108,8 +109,9 @@ Using **Microsoft 365 Copilot Chat**, create a follow-up email summarizing your 
     ![screenshot showing Work mode tab.](../Prompts/Media/work-mode.png)
 
     > **Note:** Depending on your organization's tenant configuration, you may not see the option to switch between **Work** and **Web** modes. If the slider is not visible, you're already in **Work mode** by default.
+1. Enter your prompt in the chat window.
 
-    **Prompt Option 1 – General Recap**:
+    **Sample Prompt – General Recap**:
 
     ```text
     Summarize the key talking points from this speech and draft an email to staff recapping the all-hands meeting. Include major takeaways, any important dates or upcoming milestones, and a call to action encouraging continued engagement.
@@ -117,7 +119,7 @@ Using **Microsoft 365 Copilot Chat**, create a follow-up email summarizing your 
     [Paste the link to your Word document here]
     ```
 
-    **Prompt Option 2 – For Staff Who Missed the Meeting**:
+    **Sample Prompt – For Staff Who Missed the Meeting**:
 
     ```text
     Write an email to staff who couldn’t attend the all-hands meeting. Summarize the main updates and decisions from the speech linked below.
