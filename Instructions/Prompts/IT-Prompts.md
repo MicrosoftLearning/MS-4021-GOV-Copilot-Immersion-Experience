@@ -5,7 +5,7 @@ task:
 
 ## Immersion Experience - IT
 
-Drive tech engagement and user satisfaction by researching upcoming product or service features, sharing updates, and collecting feedback.  
+Improve digital service delivery and internal adoption by researching relevant IT features, communicating updates to staff, and gathering feedback to guide future implementation decisions.
 
 You'll perform three tasks:  
 
@@ -21,18 +21,21 @@ Using **Microsoft 365 Copilot Chat**, research the upcoming features of a produc
 
 **Steps**:
 
-- Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
-- Ensure the "web mode" tab is selected in Copilot Chat:
+1. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/).
+1. Ensure the "Work mode" tab is selected in Copilot Chat:
 
-    ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
+    ![screenshot showing Work mode tab.](../Prompts/Media/work-mode.png)
 
-**Sample Prompt**:
+    > **Note:** Depending on your organization's tenant configuration, you may not see the option to switch between **Work** and **Web** modes. If the slider is not visible, you're already in **Work mode** by default.
+1. Enter your prompt in the chat window.
 
-```text
-Pull a list of [Microsoft 365] features releasing in the next 90 days
-```
+    **Sample Prompt**:
 
-> **NOTE:** Replace [Microsoft 365] with the product or service you're focusing on.
+    ```text
+    Pull a list of [Microsoft 365] features releasing in the next 90 days
+    ```
+
+    > **NOTE:** Replace [Microsoft 365] with the product or service you're focusing on.
 
 ### Task 2: Draft an announcement  
 
@@ -40,18 +43,18 @@ Using **Copilot in Word**, draft an engaging announcement for end users about ne
 
 **Steps**:
 
-- Launch Microsoft Word from your browser ([word.new](https://word.new)) or use the desktop application.
-- Enter your prompt where it says **"Describe what you'd like to write"**.
+1. Launch Microsoft Word from your browser ([word.new](https://word.new)) or use the desktop application.
+1. Enter your prompt where it says **"Describe what you'd like to write"**.
 
     ![screenshot showing Copilot in Word.](../Prompts/Media/draft-with-copilot.png)
 
-**Sample Prompt**:
+    **Sample Prompt**:
 
-```text
-Draft a post about the upcoming features in [Microsoft 365: (list of features)]. Describe the benefits to help drive adoption. 
-```
+    ```text
+    Draft an internal memo about the upcoming features in [Microsoft 365: (list of features)]. Describe the benefits to help drive adoption. 
+    ```
 
-> **NOTE:** Replace [Microsoft 365: (list of features)] with the specific product & features you're focusing on.
+    > **NOTE:** Replace [Microsoft 365: (list of features)] with the specific product & features you're focusing on.
 
 ### Task 3: Create a survey  
 
@@ -59,13 +62,13 @@ Using **Copilot in Forms**, create a survey to collect user feedback about their
 
 **Steps**:
 
-- Open a new browser tab and navigate to [forms.office.com]https://forms.office.com/
-- Select **New form** in the top left hand corner of the screen.
+1. Open a new browser tab and navigate to [forms.office.com](https://forms.office.com/)
+1. Select **New form** in the top left hand corner of the screen.
 
-**Sample Prompt**:
+    **Sample Prompt**:
 
-```text
-Create a survey to capture feedback from users in my organization to understand their experience and satisfaction with [Microsoft 365] products and services.
-```
+    ```text
+    Create a survey to collect staff feedback to understand their experience and satisfaction with [Microsoft 365] products and services.
+    ```
 
-> **NOTE:** Replace [Microsoft 365] with the product or service you're focusing on.
+    > **NOTE:** Replace [Microsoft 365] with the product or service you're focusing on.

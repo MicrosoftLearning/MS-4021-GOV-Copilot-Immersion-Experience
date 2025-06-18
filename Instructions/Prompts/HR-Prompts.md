@@ -51,6 +51,7 @@ Based on the trends and qualifications you shared earlier, create a position des
 > **NOTE:** Replace [IT program managers] with your selected role. This description can be used to support internal HR reviews or future public job postings.
 
 > **TIP**  
+>
 > - Ask Copilot to export the response to a Word document to save the template.  
 > - Save the document to your OneDrive and copy the shared URL.  
 > - To copy the link, open the saved Word document and select **Share** > **Copy Link**:  
@@ -68,11 +69,11 @@ Using **Copilot in Word**, develop a reusable interview guide tailored to your s
     ![screenshot showing Copilot in Word.](../Prompts/Media/draft-with-copilot.png)
 
     **Sample Prompt**:
-    
+
     ```text
     Create an interview guide for [IT program managers] in a federal agency. Include questions that assess project management expertise, familiarity with government procurement or compliance, and alignment with public service values. Add a scoring rubric to guide evaluations.
     ```
-    
+
     > **NOTE:** Replace [IT program managers] with the chosen role.
-    
+
     > **TIP:** Paste the shared document link from Task 2 into your prompt to ensure alignment with the position description. You can also type "/" to reference and insert relevant files from OneDrive.

@@ -11,7 +11,7 @@ You’ll choose your own project type—for example, upgrading IT infrastructure
 
 ## Tasks Overview
 
-You will perform three tasks:
+You'll perform three tasks:
 
 - Define project scope and procurement needs using **Microsoft 365 Copilot Chat**
 - Draft a formal RFP using **Copilot in Word**
@@ -21,7 +21,7 @@ You will perform three tasks:
 
 ### Task 1: Define the project scope and procurement needs
 
-Use **Microsoft 365 Copilot Chat (Work mode)** to define the goals, scope, and procurement requirements for your selected project. This summary will serve as the foundation for your RFP.
+Use **Microsoft 365 Copilot Chat (Work mode)** to define the goals, scope, and procurement requirements for your selected project. This summary serves as the foundation for your RFP.
 
 **Steps**:
 

@@ -17,7 +17,7 @@ You’ll perform three tasks:
 
 ### Task 1: Draft an all-staff speech
 
-Using **Copilot in Word**, create a speech for an upcoming all-hands meeting. Focus on sharing recent accomplishments, department priorities, policy or funding updates, and next steps for your team. This speech will set the tone and direction for your agency moving forward.
+Using **Copilot in Word**, create a speech for an upcoming all-hands meeting. Focus on sharing recent accomplishments, department priorities, policy or funding updates, and next steps for your team. This speech sets the tone and direction for your agency moving forward.
 
 **Steps**:
 
