@@ -10,7 +10,7 @@ Enhance your department’s hiring process by exploring workforce trends, develo
 You’ll perform three tasks:
 
 - Research workforce trends using **Microsoft 365 Copilot Chat**  
-- Create a government position description using **Copilot Chat**  
+- Create a government position description using **Microsoft 365 Copilot Chat**  
 - Design an interview guide using **Copilot in Word**
 
 > **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!
