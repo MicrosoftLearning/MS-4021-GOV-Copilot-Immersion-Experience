@@ -21,7 +21,7 @@ You'll perform three tasks:
 
 ### Task 1: Define the project scope and procurement needs
 
-Use **Microsoft 365 Copilot Chat (Work mode)** to define the goals, scope, and procurement requirements for your selected project. This summary serves as the foundation for your RFP.
+Using **Microsoft 365 Copilot Chat**, define the goals, scope, and procurement requirements for your selected project. This summary serves as the foundation for your RFP.
 
 **Steps**:
 
@@ -49,7 +49,7 @@ Use **Microsoft 365 Copilot Chat (Work mode)** to define the goals, scope, and p
 
 ### Task 2: Draft the RFP document
 
-Use **Copilot in Word** to generate a formal Request for Proposal. You can reference a prior RFP if you have one, or let Copilot generate the structure from your project summary.
+Using **Copilot in Word**, generate a formal Request for Proposal. You can reference a prior RFP if you have one, or let Copilot generate the structure from your project summary.
 
 **Steps**:
 
@@ -83,7 +83,7 @@ Use **Copilot in Word** to generate a formal Request for Proposal. You can refer
 
 ### Task 3: Draft an internal summary email
 
-Use **Copilot in Outlook** to draft a professional message announcing the RFP to your leadership or team. Your email should briefly summarize the RFP project, outline the timeline for vendor responses, and include any relevant next steps for your team.
+Using **Copilot in Outlook**, draft a professional message announcing the RFP to your leadership or team. Your email should briefly summarize the RFP project, outline the timeline for vendor responses, and include any relevant next steps for your team.
 
 **Steps**:
 

@@ -38,7 +38,7 @@ Using **Copilot Chat**, research current trends in public sector hiring for your
 
     > **NOTE:** Replace [IT program managers] with your selected government role.
 
-### Task 2: Create a government position description
+### Task 2: Create a position description
 
 Using **Copilot Chat**, continue the conversation from Task 1 to draft a standardized position description. Ask Copilot to use the trends and qualifications it previously identified to structure a role description. Include sections such as duties, qualifications, agency mission, and any applicable civil service classifications or policy references.
 
