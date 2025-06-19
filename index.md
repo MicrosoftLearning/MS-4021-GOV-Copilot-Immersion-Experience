@@ -22,6 +22,6 @@ Hyperlinks to each of the demos are listed below.
 
 #### [IT](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/3-IT-Prompts.html)
 
-#### [Procurment](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/4-Procurment-Prompts.html)
+#### [Procurement](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/4-Procurement-Prompts.html)
 
 #### [Finance](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/5-Finance-Prompts.html)
