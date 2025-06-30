@@ -81,7 +81,7 @@ Using **Copilot in Word**, generate a formal Request for Proposal. You can refer
 
 ### Task 3: Draft an internal summary email
 
-Using **Copilot in Outlook**, draft a professional message announcing the RFP to your leadership or team. Your email should briefly summarize the RFP project, outline the timeline for vendor responses, and include any relevant next steps for your team.
+Using **Copilot in Outlook**, draft an email announcing the RFP to your leadership or team. Your email should briefly summarize the RFP project, outline the timeline for vendor responses, and include any relevant next steps for your team.
 
 **Steps**:
 

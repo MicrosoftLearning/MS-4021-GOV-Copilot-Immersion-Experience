@@ -5,7 +5,7 @@ task:
 
 ## Immersion Experience – Public Sector Finance Professionals
 
-Finance professionals in the public sector play a critical role in ensuring that public sector initiatives and programs are fiscally responsible and sustainable. Their ability to evaluate the financial impacts of policies enables informed decision-making and effective allocation of public resources. Through an immersive experience, these professionals will leverage Microsoft 365 Copilot to gather contextual data, identify key cost drivers or funding gaps, and develop comprehensive financial summaries. These insights directly support policy formulation and budget decisions, enhancing transparency and accountability in public finance.
+Finance professionals in the public sector play a critical role in ensuring that public sector initiatives and programs are fiscally responsible and sustainable. Their ability to evaluate the financial impacts of policies enables informed decision-making and effective allocation of public resources. In this Immersion Experience, you'll leverage Microsoft 365 Copilot to gather contextual data, identify key cost drivers or funding gaps, and develop a comprehensive financial analysis. These insights directly support policy formulation and budget decisions, enhancing transparency and accountability in public finance.
 
 ## Tasks Overview
 
@@ -13,13 +13,13 @@ You’ll perform three tasks:
 
 - Define the program and financial goals using **Microsoft 365 Copilot Chat**
 - Analyze cost and funding data using **Copilot Chat**
-- Create a financial summary document using **Copilot in Word**
+- Create a financial analysis document using **Copilot in Word**
 
 > **NOTE:** You may use a real public sector program if public data is easily accessible in your region, or create a fictional program to explore potential budget implications. Sample prompts will guide you either way.
 
-### Task 1: Collect Financial Data  
+### Task 1: Define the program and financial goals 
 
-Using **Microsoft 365 Copilot Chat**, define the financial objectives and funding strategy for a public sector initiative of your choice. You can choose a real public sector program if data is available, or create a fictional one to explore a realistic scenario.
+Using **Microsoft 365 Copilot Chat**, define the financial objectives and funding strategy for a public sector initiative of your choice. You can choose a real public sector program if data is available or create a fictional one to explore a realistic scenario.
 
 > **OPTION 1 – Use Real Public Data:**  
 > Navigate to a public budget or spending site for your country and review data from an existing program or expenditure report. Then use Copilot to summarize and analyze that data.
@@ -84,9 +84,9 @@ Based on the goals of your [Public Sector Program Name or Area], identify potent
 > - To copy the link, open the saved Word document and select **Share** > **Copy Link**, as shown below:  
 > ![Share link.](../Prompts/Media/share-menu-with-copy-link.png)
 
-### Task 3: Create a Financial Summary Document
+### Task 3: Draft a Financial analysis Document
 
-Using **Copilot in Word**, draft a financial summary that outlines the program goals, estimated budget, risks, and funding strategies. Tailor the language to internal stakeholders or a budget oversight committee.
+Using **Copilot in Word**, draft a financial analysis that outlines the program goals, estimated budget, risks, and funding strategies. Tailor the language to internal stakeholders or a budget oversight committee.
 
 **Steps**:
 
@@ -98,7 +98,7 @@ Using **Copilot in Word**, draft a financial summary that outlines the program g
 **Sample Prompt**:
 
 ```text
-Using the insights from [Paste link to shared Word document from Task 2 here], draft a financial summary report for the [Public Sector Program Name or Area]. Include:
+Using the insights from [Paste link to shared Word document from Task 2 here], draft a financial analysis report for the [Public Sector Program Name or Area]. Include:
 - Overview of the program’s goals
 - Estimated budget and funding sources
 - Key financial risks and mitigation strategies

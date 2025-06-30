@@ -5,14 +5,14 @@ task:
 
 ## Immersion Experience – Public Sector Human Resources (HR) Professionals
 
-As an HR professional in the public sector, streamlining the hiring process is key to building a capable, mission-aligned workforce—especially when identifying candidates who meet civil service requirements. In this Immersion Experience, you’ll discover how to use Microsoft 365 Copilot to analyze workforce trends, create standardized position descriptions, and develop reusable interview guides. These tools will help you attract, evaluate, and select qualified candidates more efficiently - ensuring a consistent, data-informed hiring process that meets civil service requirements and supports long-term organizational goals.
+As an HR professional in the public sector, streamlining the hiring process is key to building a capable, mission-aligned workforce—especially when identifying candidates who meet civil service requirements. In this Immersion Experience, you’ll discover how to use Microsoft 365 Copilot to analyze workforce trends, create standardized role descriptions, and develop reusable interview guides. These tools will help you attract, evaluate, and select qualified candidates more efficiently - ensuring a consistent, data-informed hiring process that meets civil service requirements and supports long-term organizational goals.
 
 ## Tasks Overview
 
 You’ll perform three tasks:
 
 - Research workforce trends using **Microsoft 365 Copilot Chat**  
-- Create a Public Sector position description using **Microsoft 365 Copilot Chat**  
+- Create a public sector role description using **Microsoft 365 Copilot Chat**  
 - Design an interview guide using **Copilot in Word**
 
 > **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!
@@ -42,14 +42,14 @@ Using **Copilot Chat**, research current hiring trends across the public sector 
 
     > **NOTE:** Replace [IT program managers] with your selected Public Sector role.
 
-### Task 2: Create a position description
+### Task 2: Create a public sector role description
 
-Using **Copilot Chat**, continue the conversation from Task 1 to draft a standardized position description. Ask Copilot to use the trends and qualifications it previously identified to structure a role description. Include sections such as duties, qualifications, agency mission, and any applicable civil service classifications or policy references.
+Using **Copilot Chat**, continue the conversation from Task 1 to draft a standardized role description. Ask Copilot to use the trends and qualifications it previously identified to structure a role description. Include sections such as duties, qualifications, agency mission, and any applicable civil service classifications or policy references.
 
 **Sample Prompt**:
 
 ```text
-Based on the trends and qualifications you shared earlier, create a position description for [IT program managers] in a federal agency. Include sections for job duties, required qualifications, and a summary of the agency’s mission and core values.
+Based on the trends and qualifications you shared earlier, create a role description for [IT program managers] in a federal agency. Include sections for job duties, required qualifications, and a summary of the agency’s mission and core values.
 ```
 
 > **NOTE:** Replace [IT program managers] with your selected role. This description can be used to support internal HR reviews or future public job postings.
@@ -63,7 +63,7 @@ Based on the trends and qualifications you shared earlier, create a position des
 
 ### Task 3: Design an interview guide
 
-Using **Copilot in Word**, develop a reusable interview guide tailored to your selected role. Include structured questions to evaluate both technical knowledge and public service values, along with a scoring rubric for consistent candidate evaluation.
+Using **Copilot in Word**, develop a reusable interview guide tailored to your selected role. Include structured questions to evaluate both technical knowledge and civil service values.
 
 **Steps**:
 
@@ -75,14 +75,14 @@ Using **Copilot in Word**, develop a reusable interview guide tailored to your s
     **Sample Prompt**:
 
     ```text
-    Create an interview guide for [IT program managers] in a [federal agency]. Include questions that assess project management expertise, familiarity with Public Sector procurement or compliance, and alignment with public service values. Add a scoring rubric to guide evaluations.
+    Create an interview guide for [IT program managers] in a [federal agency]. Include questions that assess project management expertise, familiarity with Public Sector procurement or compliance, and alignment with civil service values. 
     ```
 
     > **NOTE:**
     > - Replace [IT program managers] with the chosen role.
     > - Replace [federal agency] with the relevant public sector organization (e.g., local, state, or national government, educational institution, or defense entity).
 
-    > **TIP:** Paste the shared document link from Task 2 into your prompt to ensure alignment with the position description. You can also type "/" to reference and insert relevant files from OneDrive.
+    > **TIP:** Paste the shared document link from Task 2 into your prompt to ensure alignment with the role description. You can also type "/" to reference and insert relevant files from OneDrive.
 
 ## Additional Learning Resources
 
