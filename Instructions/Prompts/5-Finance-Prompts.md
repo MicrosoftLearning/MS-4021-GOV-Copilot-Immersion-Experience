@@ -1,11 +1,13 @@
 ---
 task:
-    title: 'Immersion Experience - Public Sector Finance'
+    title: 'Immersion Experience – Public Sector Finance Professionals'
 ---
 
-## Immersion Experience – Public Sector Finance
+## Immersion Experience – Public Sector Finance Professionals
 
-Use Microsoft 365 Copilot to evaluate the financial impact of a government initiative or program. You’ll gather contextual data, identify key cost drivers or funding gaps, and develop a financial summary to support policy or budget decisions.
+Finance professionals in the public sector play a critical role in ensuring that public sector initiatives and programs are fiscally responsible and sustainable. Their ability to evaluate the financial impacts of policies enables informed decision-making and effective allocation of public resources. Through an immersive experience, these professionals will leverage Microsoft 365 Copilot to gather contextual data, identify key cost drivers or funding gaps, and develop comprehensive financial summaries. These insights directly support policy formulation and budget decisions, enhancing transparency and accountability in public finance.
+
+## Tasks Overview
 
 You’ll perform three tasks:
 
@@ -13,11 +15,11 @@ You’ll perform three tasks:
 - Analyze cost and funding data using **Copilot Chat**
 - Create a financial summary document using **Copilot in Word**
 
-> **NOTE:** You may use a real government program if public data is easily accessible in your region, or create a fictional program to explore potential budget implications. Sample prompts will guide you either way.
+> **NOTE:** You may use a real public sector program if public data is easily accessible in your region, or create a fictional program to explore potential budget implications. Sample prompts will guide you either way.
 
 ### Task 1: Collect Financial Data  
 
-Using **Microsoft 365 Copilot Chat**, define the financial objectives and funding strategy for a public sector initiative of your choice. You can choose a real government program if data is available, or create a fictional one to explore a realistic scenario.
+Using **Microsoft 365 Copilot Chat**, define the financial objectives and funding strategy for a public sector initiative of your choice. You can choose a real public sector program if data is available, or create a fictional one to explore a realistic scenario.
 
 > **OPTION 1 – Use Real Public Data:**  
 > Navigate to a public budget or spending site for your country and review data from an existing program or expenditure report. Then use Copilot to summarize and analyze that data.
@@ -39,16 +41,15 @@ Using **Microsoft 365 Copilot Chat**, define the financial objectives and fundin
     **Sample Prompt – Option 1 (Using Public Data):**
 
     ```text
-    Based on the data from [Government Program Name], summarize its financial objectives, budget allocation, and key performance indicators. Include a high-level cost breakdown.
+    Based on the data from [Public Sector Program Name], summarize its financial objectives, budget allocation, and key performance indicators. Include a high-level cost breakdown.
     ```
 
-    > **NOTE:** Replace `[Government Program Name]` with the actual program or file name.
+    > **NOTE:** Replace `[Public Sector Program Name]` with the actual program or file name.
     >
-    > To use your own report/data:
-    >
+    > To use your own report or data:
     > - Click the “+” icon in the Copilot Chat window.
-    > - Choose a file from the list of available documents, or select Upload to add a new one.
-    > - After uploading, you can reference the file in your prompt using its name or use the / command to select it.
+    > - Choose a file from the list of available documents, or select **Upload** to add a new one.
+    > - After uploading, reference the file in your prompt using its name or use the `/` command to select it.
     > - Alternatively, you can paste a section of the report directly into the chat.
     >
     > ![interact with files.](../Prompts/Media/Copilot-chat-files.png)
@@ -56,10 +57,10 @@ Using **Microsoft 365 Copilot Chat**, define the financial objectives and fundin
     **Sample Prompt - Option 2 (Using Fictional Data):**
 
     ```text
-    Create a realistic financial plan for a new [Government Program Name or Area] designed to address [a specific public need]. Include estimated costs, potential funding sources, and success criteria.
+    Create a realistic financial plan for a new [Public Sector Program Name or Area] designed to address [a specific public need]. Include estimated costs, potential funding sources, and success criteria.
     ```
 
-    **NOTE:** Replace `[Government Program Name or Area]` with the name or focus area of your chosen program (for example, "Rural Broadband Expansion"), and `[a specific public need]` with the specific challenge it addresses (e.g., "limited internet access in remote communities").
+    > **NOTE:** Replace `[Public Sector Program Name or Area]` with the name or focus area of your chosen program (for example, "Rural Broadband Expansion"), and `[a specific public need]` with the specific challenge it addresses (e.g., "limited internet access in remote communities").
 
 ### Task 2: Identify Financial Risks and Opportunities
 
@@ -70,10 +71,10 @@ Identify potential risks (for example, underfunding, cost overruns, inefficient 
 **Sample Prompt**:
 
 ```text
-Based on the goals of your [Government Program Name or Area], identify potential financial risks and cost-saving opportunities. Suggest 2–3 ways to improve funding efficiency.
+Based on the goals of your [Public Sector Program Name or Area], identify potential financial risks and cost-saving opportunities. Suggest 2–3 ways to improve funding efficiency.
 ```
 
-> **NOTE:** Replace `[Government Program Name or Area]` with the name or focus area of your program (e.g., "urban mobility upgrade" or "digital inclusion initiative").
+> **NOTE:** Replace `[Public Sector Program Name or Area]` with the name or focus area of your program (e.g., "urban mobility upgrade" or "digital inclusion initiative").
 
 > **TIP 1:** Ask Copilot to organize the risks and opportunities in a table or group them by category (e.g., operational, technological, stakeholder-related) to better visualize key insights.
 
@@ -97,13 +98,19 @@ Using **Copilot in Word**, draft a financial summary that outlines the program g
 **Sample Prompt**:
 
 ```text
-Using the insights from [Paste link to shared Word document from Task 2 here], draft a financial summary report for the [Government Program Name or Area]. Include:
+Using the insights from [Paste link to shared Word document from Task 2 here], draft a financial summary report for the [Public Sector Program Name or Area]. Include:
 - Overview of the program’s goals
 - Estimated budget and funding sources
 - Key financial risks and mitigation strategies
 - Recommendations for next steps
 ```
 
-> **NOTE:** Replace `[Government Program Name or Area]` with the name or focus area of your program (e.g., "urban mobility upgrade" or "digital inclusion initiative").
+> **NOTE:** Replace `[Public Sector Program Name or Area]` with the name or focus area of your program (e.g., "urban mobility upgrade" or "digital inclusion initiative").
 
 > **Tip:** Before selecting **Keep it**, ask Copilot to refine your document by expanding on a topic or adjusting the tone for clarity.
+
+## Additional Learning Resources
+
+- [Demo Video: Streamline the auditing process with Microsoft 365 Copilot](https://content.cloudguides.com/guides/Streamline%20the%20auditing%20process%20with%20Microsoft%20365%20Copilot)
+- [Training Video: Revolutionize the way you work with Microsoft 365 Copilot](https://wwps.microsoft.com/innovate-blog/revolutionize-work-microsoft365)
+- [Explore all public sector skilling content on the Public Sector Center of Expertise and Digital Skills website](https://wwps.microsoft.com/)

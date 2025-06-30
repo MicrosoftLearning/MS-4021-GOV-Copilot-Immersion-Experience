@@ -1,11 +1,13 @@
 ---
 task:
-    title: 'Immersion Experience - IT'
+    title: 'Immersion Experience – Public Sector IT Professionals'
 ---
 
-## Immersion Experience - IT
+## Immersion Experience – Public Sector IT Professionals
 
-Improve digital service delivery and internal adoption by researching relevant IT features, communicating updates to staff, and gathering feedback to guide future implementation decisions.
+As an IT professional within the public sector, driving effective digital service delivery and internal adoption is key to supporting mission-critical operations. In this Immersion Experience, you’ll learn how to use Microsoft 365 Copilot to research relevant IT features, communicate updates clearly to staff, and gather actionable feedback to guide future implementation decisions. Enhance productivity, streamline change management, and ensure your technology investments deliver real value across your agency or department.
+
+## Tasks Overview
 
 You'll perform three tasks:  
 
@@ -26,7 +28,10 @@ Using **Microsoft 365 Copilot Chat**, research the upcoming features of a produc
 
     ![screenshot showing Work mode tab.](../Prompts/Media/work-mode.png)
 
-    > **Note:** Depending on your organization's tenant configuration, you may not see the option to switch between **Work** and **Web** modes. If the slider is not visible, you're already in **Work mode** by default.
+   > **Note:** If the Work/Web toggle is not visible, you're already in **Work mode** by default.
+   >
+   > To access external web resources, you can switch to **Web mode**, if it’s enabled in your tenant.
+
 1. Enter your prompt in the chat window.
 
     **Sample Prompt**:
@@ -51,7 +56,7 @@ Using **Copilot in Word**, draft an engaging announcement for end users about ne
     **Sample Prompt**:
 
     ```text
-    Draft an internal memo about the upcoming features in [Microsoft 365: (list of features)]. Describe the benefits to help drive adoption. 
+    Draft an internal memo about the upcoming features in [Microsoft 365: (list of features)]. Describe the benefits and key use cases for how it can be used within [insert your organization] to help drive adoption.
     ```
 
     > **NOTE:** Replace [Microsoft 365: (list of features)] with the specific product & features you're focusing on.
@@ -72,3 +77,8 @@ Using **Copilot in Forms**, create a survey to collect user feedback about their
     ```
 
     > **NOTE:** Replace [Microsoft 365] with the product or service you're focusing on.
+
+## Additional Learning Resources
+
+- [Training Video: Revolutionize the way you work with Microsoft 365 Copilot](https://wwps.microsoft.com/innovate-blog/revolutionize-work-microsoft365)
+- [Explore all public sector skilling content on the Public Sector Center of Expertise and Digital Skills website](https://wwps.microsoft.com/)

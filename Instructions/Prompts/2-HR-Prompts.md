@@ -1,23 +1,25 @@
 ---
 task:
-    title: 'Immersion Experience - HR'
+    title: 'Immersion Experience – Public Sector Human Resources (HR) Professionals'
 ---
 
-## Immersion Experience – Public Sector HR
+## Immersion Experience – Public Sector Human Resources (HR) Professionals
 
-Enhance your department’s hiring process by exploring workforce trends, developing a standardized position description, and building a reusable interview guide to attract and assess qualified public service candidates.
+As an HR professional in the public sector, streamlining the hiring process is key to building a capable, mission-aligned workforce—especially when identifying candidates who meet civil service requirements. In this Immersion Experience, you’ll discover how to use Microsoft 365 Copilot to analyze workforce trends, create standardized position descriptions, and develop reusable interview guides. These tools will help you attract, evaluate, and select qualified candidates more efficiently - ensuring a consistent, data-informed hiring process that meets civil service requirements and supports long-term organizational goals.
+
+## Tasks Overview
 
 You’ll perform three tasks:
 
 - Research workforce trends using **Microsoft 365 Copilot Chat**  
-- Create a government position description using **Microsoft 365 Copilot Chat**  
+- Create a Public Sector position description using **Microsoft 365 Copilot Chat**  
 - Design an interview guide using **Copilot in Word**
 
 > **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!
 
 ### Task 1: Research workforce trends
 
-Using **Copilot Chat**, research current trends in public sector hiring for your chosen position. Focus on identifying key skills, required qualifications, and evolving workforce needs in government agencies to ensure your hiring process reflects current best practices.
+Using **Copilot Chat**, research current hiring trends across the public sector for your chosen position. Focus on identifying key skills, required qualifications, and evolving workforce needs in public institutions such as government agencies, non-profits, education, and healthcare organizations. This will help ensure your hiring process aligns with current best practices and sector-specific demands.
 
 **Steps**:
 
@@ -27,16 +29,18 @@ Using **Copilot Chat**, research current trends in public sector hiring for your
     ![screenshot showing Work mode tab.](../Prompts/Media/work-mode.png)
 
     > **Note:** If the Work/Web toggle is not visible, you're already in **Work mode** by default.
+    >
+    > To access external web resources (such as workforce trend data), you can switch to **Web mode**, if it’s enabled in your tenant.
 
 3. Enter your prompt in the chat window.
 
     **Sample Prompt**:
 
     ```text
-    What are the key skills and qualifications needed for [IT program managers] in large public sector agencies? Include emerging trends in digital government initiatives and workforce modernization.
+    What are the key skills and qualifications needed for [IT program managers] in large public sector agencies? Include emerging trends in digital Public Sector initiatives and workforce modernization.
     ```
 
-    > **NOTE:** Replace [IT program managers] with your selected government role.
+    > **NOTE:** Replace [IT program managers] with your selected Public Sector role.
 
 ### Task 2: Create a position description
 
@@ -71,9 +75,17 @@ Using **Copilot in Word**, develop a reusable interview guide tailored to your s
     **Sample Prompt**:
 
     ```text
-    Create an interview guide for [IT program managers] in a federal agency. Include questions that assess project management expertise, familiarity with government procurement or compliance, and alignment with public service values. Add a scoring rubric to guide evaluations.
+    Create an interview guide for [IT program managers] in a [federal agency]. Include questions that assess project management expertise, familiarity with Public Sector procurement or compliance, and alignment with public service values. Add a scoring rubric to guide evaluations.
     ```
 
-    > **NOTE:** Replace [IT program managers] with the chosen role.
+    > **NOTE:**
+    > - Replace [IT program managers] with the chosen role.
+    > - Replace [federal agency] with the relevant public sector organization (e.g., local, state, or national government, educational institution, or defense entity).
 
     > **TIP:** Paste the shared document link from Task 2 into your prompt to ensure alignment with the position description. You can also type "/" to reference and insert relevant files from OneDrive.
+
+## Additional Learning Resources
+
+- [Demo Video: Streamline the recruitment process with Microsoft 365 Copilot](https://content.cloudguides.com/guides/Streamline%20the%20recruitment%20process%20with%20Microsoft%20365%20Copilot)
+- [Training Video: Revolutionize the way you work with Microsoft 365 Copilot](https://wwps.microsoft.com/innovate-blog/revolutionize-work-microsoft365)
+- [Explore all public sector skilling content on the Public Sector Center of Expertise and Digital Skills website](https://wwps.microsoft.com/)

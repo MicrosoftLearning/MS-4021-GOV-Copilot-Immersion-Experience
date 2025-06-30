@@ -1,15 +1,17 @@
 ---
 task:
-    title: 'Immersion Experience - Senior Official'
+    title: 'Immersion Experience – Public Sector Senior Officials '
 ---
 
-## Immersion Experience - Senior Official  
+## Immersion Experience – Public Sector Senior Officials  
 
-Communicate effectively with your department by preparing a strategic message for your next all-staff meeting. You’ll use Microsoft 365 Copilot to draft a speech, generate supporting materials, and ensure consistent communication across formats.
+As a senior official within the public sector, effective communication is critical—whether you're leading a quarterly update, coordinating a planning session, or responding to an emergency. Clear, strategic messaging ensures your team is aligned, informed, and ready to act. In this Immersion Experience, you’ll explore how Microsoft 365 Copilot can help you prepare for your next all-staff meeting by drafting a compelling speech, generating supporting materials, and maintaining consistent communication across formats. Empower your leadership with tools that enhance clarity, confidence, and impact.
+
+## Tasks Overview
 
 You’ll perform three tasks:
 
-- Draft a speech using **Copilot in Word**.  
+- Draft an all-staff speech using **Copilot in Word**.  
 - Create a slide presentation using **Copilot in PowerPoint**.  
 - Draft an email using **Microsoft 365 Copilot Chat**.
 
@@ -17,7 +19,7 @@ You’ll perform three tasks:
 
 ### Task 1: Draft an all-staff speech
 
-Using **Copilot in Word**, create a speech for an upcoming all-hands meeting. Focus on sharing recent accomplishments, department priorities, policy or funding updates, and next steps for your team. This speech sets the tone and direction for your agency moving forward.
+Using **Copilot in Word**, create a speech for an upcoming all-staff meeting. Focus on sharing recent accomplishments, department priorities, policy or funding updates, and next steps for your team. This speech sets the tone and direction for your agency moving forward.
 
 **Steps**:
 
@@ -114,7 +116,7 @@ Using **Microsoft 365 Copilot Chat**, create a follow-up email summarizing your 
     **Sample Prompt – General Recap**:
 
     ```text
-    Summarize the key talking points from this speech and draft an email to staff recapping the all-hands meeting. Include major takeaways, any important dates or upcoming milestones, and a call to action encouraging continued engagement.
+    Summarize the key talking points from this speech and draft an email to staff recapping the all-staff meeting. Include major takeaways, any important dates or upcoming milestones, and a call to action encouraging continued engagement.
     
     [Paste the link to your Word document here]
     ```
@@ -122,9 +124,15 @@ Using **Microsoft 365 Copilot Chat**, create a follow-up email summarizing your 
     **Sample Prompt – For Staff Who Missed the Meeting**:
 
     ```text
-    Write an email to staff who couldn’t attend the all-hands meeting. Summarize the main updates and decisions from the speech linked below.
+    Write an email to staff who couldn’t attend the all-staff meeting. Summarize the main updates and decisions from the speech linked below.
 
     [Paste the link to your Word document here]
     ```
 
     > **TIP:** You can also add tone guidance like: “Keep the tone formal,” “Make it brief,” or “Add a positive closing message.”
+
+## Additional Learning Resources
+
+- [Demo Video: Improve disaster response with Copilot and agents](https://content.cloudguides.com/guides/Improve%20disaster%20response%20with%20Copilot%20and%20Agents)
+- [Training Video: Revolutionize the way you work with Microsoft 365 Copilot](https://wwps.microsoft.com/innovate-blog/revolutionize-work-microsoft365)
+- [Public Sector Center of Expertise and Digital Skills](https://wwps.microsoft.com/)

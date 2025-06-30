@@ -1,13 +1,11 @@
 ---
 task:
-    title: 'Immersion Experience - Operations'
+    title: 'Immersion Experience – Public Sector Procurement Professionals'
 ---
 
-# Immersion Experience – Procurement
+# Immersion Experience – Public Sector Procurement Professionals
 
-Create a Request for Proposal (RFP) to solicit vendor bids for a new initiative. You’ll use Microsoft 365 Copilot to define project needs, draft the RFP, and communicate the plan to internal stakeholders.
-
-You’ll choose your own project type—for example, upgrading IT infrastructure, launching a digital services platform, implementing a sustainability initiative, or any public sector effort that requires external vendor support.
+As a procurement professional within the public sector, creating clear, strategic Requests for Proposal (RFPs) is essential to securing the right vendor partnerships for mission-driven initiatives. In this Immersion Experience, you’ll use Microsoft 365 Copilot to define project needs, draft a compelling RFP, and communicate your plan effectively to internal stakeholders. Whether you're preparing an RFP for upgrading IT infrastructure, developing training programs, or managing construction projects, you’ll gain hands-on experience with tools that streamline procurement workflows and boost productivity across your department.
 
 ## Tasks Overview
 
@@ -36,7 +34,7 @@ Using **Microsoft 365 Copilot Chat**, define the goals, scope, and procurement r
     **Sample Prompt**:
 
     ```text
-    Help me define the scope and procurement needs for a new government project. The goal is to [Project Goal]. Include objectives, key deliverables, vendor qualifications, and timeline expectations.
+    Help me define the scope and procurement needs for a new project im working on for [Insert your organization]. The goal is to [Project Goal]. Include objectives, key deliverables, vendor qualifications, and timeline expectations.
     ```
 
     > **NOTE:** Replace [Project Goal] with a project of your choice—such as upgrading transportation systems, deploying mobile health services, or implementing a digital permit portal.
@@ -101,3 +99,9 @@ Using **Copilot in Outlook**, draft a professional message announcing the RFP to
     ```
 
     > **TIP:** If you used Copilot in Word to generate the RFP, copy 2–4 key bullet points (such as project scope, submission deadline, evaluation process) to help Copilot craft the email.
+
+## Additional Learning Resources
+
+- [Demo Video: Improve procurement officer productivity with Microsoft 365 Copilot](https://content.cloudguides.com/guides/Improve%20procurement%20officer%20productivity%20with%20Microsoft%20365%20Copilot)
+- [Training Video: Revolutionize the way you work with Microsoft 365 Copilot](https://wwps.microsoft.com/innovate-blog/revolutionize-work-microsoft365)
+- [Explore all public sector skilling content on the Public Sector Center of Expertise and Digital Skills website](https://wwps.microsoft.com/)

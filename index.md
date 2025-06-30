@@ -16,12 +16,12 @@ Hyperlinks to each of the demos are listed below.
 
 ## Sample Prompts for immersion experience
 
-#### [Senior Officials](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/1-Senior-Official-Prompts.html)
+#### [Public Sector Senior Officials ](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/1-Senior-Official-Prompts.html)
 
-#### [HR](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/2-HR-Prompts.html)
+#### [Public Sector Human Resources (HR) Professionals](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/2-HR-Prompts.html)
 
-#### [IT](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/3-IT-Prompts.html)
+#### [Public Sector IT Professionals](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/3-IT-Prompts.html)
 
-#### [Procurement](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/4-Procurement-Prompts.html)
+#### [Public Sector Procurement Professionals](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/4-Procurement-Prompts.html)
 
-#### [Finance](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/5-Finance-Prompts.html)
+#### [Public Sector Finance Professionals](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/5-Finance-Prompts.html)
