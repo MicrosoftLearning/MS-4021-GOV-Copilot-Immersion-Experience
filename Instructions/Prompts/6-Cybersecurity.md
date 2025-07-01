@@ -5,7 +5,7 @@ task:
 
 ## Immersion Experience – Public Sector Cybersecurity
 
-Strengthen your agency's cybersecurity posture by using Microsoft 365 Copilot to identify vulnerabilities, surface best practices, and align stakeholders on next steps.
+As a cybersecurity professional in the public sector, safeguarding your agency’s digital infrastructure is a constant, evolving challenge. From defending against sophisticated threats to aligning with compliance requirements, your role demands strategic thinking, clear communication, and rapid response. In this Immersion Experience, you’ll use Microsoft 365 Copilot to identify and refine key tenant security best practices, draft a strategic overview of your agency’s security posture, and create a presentation to align stakeholders on next steps. These insights will help you strengthen cyber resilience across your organization—empowering you to respond faster, communicate more effectively, and proactively manage risks.
 
 ## Tasks Overview
 
