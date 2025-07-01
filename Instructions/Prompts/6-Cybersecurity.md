@@ -1,9 +1,9 @@
 ---
 task:
-    title: 'Immersion Experience – Cybersecurity'
+    title: 'Immersion Experience – Public Sector Cybersecurity'
 ---
 
-## Immersion Experience – Cybersecurity
+## Immersion Experience – Public Sector Cybersecurity
 
 Strengthen your agency's cybersecurity posture by using Microsoft 365 Copilot to identify vulnerabilities, surface best practices, and align stakeholders on next steps.
 
