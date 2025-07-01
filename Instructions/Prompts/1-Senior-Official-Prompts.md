@@ -89,7 +89,7 @@ Using **Copilot in PowerPoint**, transform your speech into a supporting present
 
     ![Copilot in Ribbon](../Prompts/Media/copilot-ribbon-powerpoint.png)
 
-1. In the Copilot pane, select the "Create presentation from file" prompt.
+1. In the Copilot pane that opens, type in the following prompt..
 
     **Sample Prompt**:
 

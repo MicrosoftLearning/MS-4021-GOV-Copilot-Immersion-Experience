@@ -17,7 +17,7 @@ You’ll perform three tasks:
 
 > **NOTE:** You may use a real public sector program if public data is easily accessible in your region, or create a fictional program to explore potential budget implications. Sample prompts will guide you either way.
 
-### Task 1: Define the program and financial goals 
+### Task 1: Define the program and financial goals
 
 Using **Microsoft 365 Copilot Chat**, define the financial objectives and funding strategy for a public sector initiative of your choice. You can choose a real public sector program if data is available or create a fictional one to explore a realistic scenario.
 
