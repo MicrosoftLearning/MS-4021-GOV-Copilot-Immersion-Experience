@@ -25,3 +25,5 @@ Hyperlinks to each of the demos are listed below.
 #### [Public Sector Procurement Professionals](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/4-Procurement-Prompts.html)
 
 #### [Public Sector Finance Professionals](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/5-Finance-Prompts.html)
+
+#### [Public Sector Cybersecurity](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Prompts/6-Cybersecurity.md)
