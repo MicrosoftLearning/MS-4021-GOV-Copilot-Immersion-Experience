@@ -5,15 +5,15 @@ task:
 
 ## Immersion Experience – Public Sector Cybersecurity
 
-As a cybersecurity professional in the public sector, safeguarding your agency’s digital infrastructure is a constant, evolving challenge. From defending against sophisticated threats to aligning with compliance requirements, your role demands strategic thinking, clear communication, and rapid response. In this Immersion Experience, you’ll use Microsoft 365 Copilot to identify and refine key tenant security best practices, draft a strategic overview of your agency’s security posture, and create a presentation to align stakeholders on next steps. These insights will help you strengthen cyber resilience across your organization—empowering you to respond faster, communicate more effectively, and proactively manage risks.
+As a cybersecurity professional in the public sector, safeguarding your organization’s digital infrastructure is a constant, evolving challenge. From defending against sophisticated threats to aligning with compliance requirements, your role demands strategic thinking, clear communication, and rapid response. In this Immersion Experience, you’ll use Microsoft 365 Copilot to identify and refine key tenant security best practices, draft a strategic overview of your organization’s security posture, and create a presentation to align stakeholders on next steps. These insights will help you strengthen cyber resilience across your organization—empowering you to respond faster, communicate more effectively, and proactively manage risks.
 
 ## Tasks Overview
 
 You’ll perform three tasks:
 
-- Identify Security Best Practices using **Microsoft 365 Copilot Chat**  
+- Identify security best practices using **Microsoft 365 Copilot Chat**  
 - Draft a security strategy overview using **Copilot in Word**  
-- Create a Security Strategy Presentation using **Copilot in PowerPoint**
+- Create a security strategy presentation using **Copilot in PowerPoint**
 
 > **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!  
 
@@ -50,7 +50,7 @@ Using **Microsoft 365 Copilot Chat** (Web mode), research the most effective way
 
 ### Task 2: Draft a Security Strategy Overview
 
-Using **Copilot in Word**, turn the best practices from Task 1 into a concise document that outlines your agency's proposed Microsoft 365 security priorities. This overview should highlight key risks, actionable recommendations, and next steps for improving tenant security.
+Using **Copilot in Word**, turn the best practices from Task 1 into a concise document that outlines your organization's proposed Microsoft 365 security priorities. This overview should highlight key risks, actionable recommendations, and next steps for improving tenant security.
 
 You’ll build on the information Copilot Chat provided earlier—use your shared Word document to maintain continuity and ensure accuracy.
 
@@ -78,7 +78,7 @@ You’ll build on the information Copilot Chat provided earlier—use your share
 
 4. Save the file to OneDrive as **M365 Security Strategy.docx**. You’ll use this document in the next task.
 
-    >**tip:** Make sure the document is saved to OneDrive. Then copy the shared URL (you may be prompted to enable AutoSave or select your OneDrive account).
+    >**TIP:** Make sure the document is saved to OneDrive. Then copy the shared URL (you may be prompted to enable AutoSave or select your OneDrive account).
 
 #### Optional: Iterate and Refine Your Strategy Document
 
@@ -96,7 +96,7 @@ Make the summary section more concise and impactful.
 
 ### Task 3: Create a Security Strategy Presentation
 
-Using **Copilot in PowerPoint**, transform your written strategy into a concise, stakeholder-ready presentation. This is your opportunity to communicate your agency’s proposed Microsoft 365 security priorities.
+Using **Copilot in PowerPoint**, transform your written strategy into a concise, stakeholder-ready presentation. This is your opportunity to communicate your organization’s proposed Microsoft 365 security priorities.
 
 **Steps**:
 
@@ -116,10 +116,11 @@ Using **Copilot in PowerPoint**, transform your written strategy into a concise,
     Add speaker notes summarizing each slide’s key talking points.
     ```
 
-1. Review the slides and speaker notes Copilot generates. Make any adjustments to align with your intended audience—for example, update the agency name, simplify technical language for executives, or add relevant visuals.
+1. Review the slides and speaker notes Copilot generates. Make any adjustments to align with your intended audience—for example, update the organization name, simplify technical language for executives, or add relevant visuals.
 
 ## Additional Learning Resources
 
 - [Protect your Government Organization from Cyber Threats](https://wwps.microsoft.com/blog/cyber-threat-protection)
 - [Training Video: Revolutionize the way you work with Microsoft 365 Copilot](https://wwps.microsoft.com/innovate-blog/revolutionize-work-microsoft365)
 - [Explore all public sector skilling content on the Public Sector Center of Expertise and Digital Skills website](https://wwps.microsoft.com/)
+- [Foundations of a modern public sector security operations center](https://learn.microsoft.com/training/modules/foundations-modern-public-sector-security-operations-center/)
