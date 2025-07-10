@@ -3,7 +3,7 @@ demo:
     title: 'Demo: Build an Agent with Copilot Studio'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-WWPS-Copilot-Immersion-Experience/)
 
 ---
 
@@ -19,11 +19,11 @@ To access agent builder navigate to:
 
 You'll also need download the following word documents:
 
-- [**Delivery Drone Press Release.docx**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/Delivery_Drone_Press_Release.docx)
-- [**Delivery Drone Troubleshooting.docx**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/Delivery_Drone_Troubleshooting.docx)
-- [**Delivery Drone SOP.docx**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/Delivery_Drone_SOP.docx)
-- [**Upselling Opportunities.docx**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/Upselling_Opportunities.docx)
-- [**Delivery Drone FAQ.docx**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/Delivery_Drone_FAQ.docx)
+- [**Delivery Drone Press Release.docx**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/Delivery_Drone_Press_Release.docx)
+- [**Delivery Drone Troubleshooting.docx**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/Delivery_Drone_Troubleshooting.docx)
+- [**Delivery Drone SOP.docx**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/Delivery_Drone_SOP.docx)
+- [**Upselling Opportunities.docx**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/Upselling_Opportunities.docx)
+- [**Delivery Drone FAQ.docx**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/Delivery_Drone_FAQ.docx)
 
 > **NOTE:**  It can take up to 10 minutes for these files to sync to your OneDrive (required to reference file later). To expedite this process, you can open the document once its synced to your OneDrive and then close it, which will add it to your Most Recently Used (MRU) list.
 
@@ -123,4 +123,4 @@ Once live, you can interact with the agent in Teams chat or via @mentions.
 
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-WWPS-Copilot-Immersion-Experience/)

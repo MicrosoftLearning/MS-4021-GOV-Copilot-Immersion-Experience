@@ -3,7 +3,7 @@ demo:
     title: 'Demo: Copilot in Word'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-WWPS-Copilot-Immersion-Experience/)
 
 ---
 
@@ -11,14 +11,14 @@ demo:
 
 ## Demo Setup
 
-The sample documents can be found in the MS-4008 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/tree/master/ResourceFiles).
+The sample documents can be found in the MS-4008 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/tree/master/ResourceFiles).
 
 The specific files being used in this exercise are:
 
-- [**ContosoLearn App Overview.docx**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/ContosoLearn%20App%20Overview.docx)
-- [**ContosoLearn Competitor SWOT.docx**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/ContosoLearn%20Competitor%20SWOT.docx)
-- [**ContosoLearn Value Proposition.docx**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/ContosoLearn%20Value%20Proposition.docx)
-- (Optional - see instructions below) [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx)
+- [**ContosoLearn App Overview.docx**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/ContosoLearn%20App%20Overview.docx)
+- [**ContosoLearn Competitor SWOT.docx**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/ContosoLearn%20Competitor%20SWOT.docx)
+- [**ContosoLearn Value Proposition.docx**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/ContosoLearn%20Value%20Proposition.docx)
+- (Optional - see instructions below) [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx)
 
 > **NOTE:**  It can take up to 10 minutes for these files to sync to your OneDrive. To expedite this process, you can open the document and then close it, which will add it to your Most Recently Used (MRU) list.
 
@@ -62,13 +62,13 @@ In this demo, we'll take the documents we created and transform them together to
     Remove the "Market Research" section and add a "Competitive Landscape" section. Ensure the content is concise and aligns with the overall tone of the document.
     ```
 
-    > **NOTE:** If Copilot for Word is not cooperating with you, you can use the following link to access the generated document: [**ContosoLearn Example Word Output**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/ContosoLearn%20Example%20Word%20Output%20(not%20to%20be%20used).docx).
+    > **NOTE:** If Copilot for Word is not cooperating with you, you can use the following link to access the generated document: [**ContosoLearn Example Word Output**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/ContosoLearn%20Example%20Word%20Output%20(not%20to%20be%20used).docx).
 
 ## Optional Demo Steps
 
 ### Summarize a large document
 
-1. Download and open the following file in Word on your desktop: [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx).
+1. Download and open the following file in Word on your desktop: [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx).
 1. Within Word, on the ribbon, select the **Copilot icon**.
 
     ![Screenshot showing keep it in Copilot.](../Demos/Media/copilot_icon.png)
@@ -90,4 +90,4 @@ In this demo, we'll take the documents we created and transform them together to
 
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-WWPS-Copilot-Immersion-Experience/)

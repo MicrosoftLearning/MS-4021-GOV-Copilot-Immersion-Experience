@@ -3,7 +3,7 @@ demo:
     title: 'Demo: Microsoft 365 Copilot Chat & Pages'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-WWPS-Copilot-Immersion-Experience/)
 
 ---
 
@@ -79,4 +79,4 @@ demo:
 
 1---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-WWPS-Copilot-Immersion-Experience/)

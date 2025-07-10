@@ -16,9 +16,9 @@ You work in business planning for an EV charging company and are developing a st
 
 ## **Demo Setup**
 
-This demo utilizes a sample dataset available in the MS-4008 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/tree/master/ResourceFiles):
+This demo utilizes a sample dataset available in the MS-4008 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/tree/master/ResourceFiles):
 
-- [**Charger_sales_report_2022-2024.xlsx**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx)
+- [**Charger_sales_report_2022-2024.xlsx**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx)
 
 ### **Step 1: Gather Insights from the Web**
 
@@ -42,7 +42,7 @@ Now let’s compare national trends to your company’s sales performance. You�
    I need to know the quarterly trends for each of our sales regions. Create a quarterly revenue line graph for the past 2 years based on:
    ```
 
-2. Select **Add Content** and upload [**Charger_sales_report_2022-2024.xlsx**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx).
+2. Select **Add Content** and upload [**Charger_sales_report_2022-2024.xlsx**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx).
 
     ![add content copilot chat.](../Demos/Media/add-content-copilot-chat.png)
 
@@ -62,4 +62,4 @@ Copilot enables iterative analysis, allowing you to refine strategies and priori
 
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-WWPS-Copilot-Immersion-Experience/)

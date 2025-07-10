@@ -3,7 +3,7 @@ demo:
     title: 'Demo: Copilot in Excel'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-WWPS-Copilot-Immersion-Experience/)
 
 ---
 
@@ -11,7 +11,7 @@ demo:
 
 ## Demo Setup
 
-Download the Excel sample document [**EV_Charger_Sales_Analysis_v1.xlsx**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/EV_Charger_Sales_Analysis_v1.xlsx). You will use this file to run the demo steps outlined in this guide.
+Download the Excel sample document [**EV_Charger_Sales_Analysis_v1.xlsx**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/EV_Charger_Sales_Analysis_v1.xlsx). You will use this file to run the demo steps outlined in this guide.
 
 ## Talking Points
 
@@ -82,4 +82,4 @@ With the help of Copilot, you've analyzed complex data sets and gained insights 
 
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-WWPS-Copilot-Immersion-Experience/)

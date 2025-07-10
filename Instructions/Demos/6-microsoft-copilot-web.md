@@ -3,12 +3,12 @@ demo:
     title: 'Demo: Microsoft Copilot (consumer/non-m365 account)'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-WWPS-Copilot-Immersion-Experience/)
 
 ---
 
 # Microsoft Copilot (copilot.microsoft.com) **RETIRED**
-> **NOTE:** This demo has been replaced with the [Microsoft 365 Copilot Chat (web) demo](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/Instructions/Demos/1a-microsoft-365-copilot-chat-web.html).
+> **NOTE:** This demo has been replaced with the [Microsoft 365 Copilot Chat (web) demo](https://microsoftlearning.github.io/MS-4021-WWPS-Copilot-Immersion-Experience/Instructions/Demos/1a-microsoft-365-copilot-chat-web.html).
 
 ## Copilot and Large Language Models
 
@@ -108,7 +108,7 @@ Over time, we expect these kinds of processes to become easier and more automate
 
 ### Recognizing Images
 
-First download the following: [**What is this image.png**](https://github.com/MicrosoftLearning/MS-4021-GOV-Copilot-Immersion-Experience/raw/master/ResourceFiles/what_is_this_image.PNG)
+First download the following: [**What is this image.png**](https://github.com/MicrosoftLearning/MS-4021-WWPS-Copilot-Immersion-Experience/raw/master/ResourceFiles/what_is_this_image.PNG)
 
 1. Start a new topic, by clicking **view history** and then **Start new chat**.
 
@@ -135,4 +135,4 @@ First download the following: [**What is this image.png**](https://github.com/Mi
 
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-GOV-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-WWPS-Copilot-Immersion-Experience/)
